@@ -9,4 +9,4 @@ Links:
 
 Github Repository Link: https://github.com/JPhanvilay/TaskBoard
 
-Deployed Link:
+Deployed Link: https://jphanvilay.github.io/TaskBoard/
